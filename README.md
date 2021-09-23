@@ -1,8 +1,9 @@
 # Micro-Panel
 
+![AppVeyor](https://img.shields.io/appveyor/build/AiHeartru/micro-panel)
 [![GitHub license](https://img.shields.io/github/license/AiHeartru/micro-panel)](https://github.com/AiHeartru/micro-panel/blob/main/LICENSE)
 
-A tiny SSH O&amp;M panel
+A tiny SSH O&amp;M panel!
 
 
 ## License
